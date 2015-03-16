@@ -1,0 +1,10 @@
+Package: conford
+Type: Package
+Title: Confidence intervals for environmental variables in diagrams of unconstrained ordination
+Version: 0.1-1
+Date: 2015-03-16
+Author: David Zeleny
+Maintainer: David Zeleny <zeleny.david@gmail.com>
+Description: More about what it does (maybe more than one line)
+Depends: vegan, weimea
+License: GPL-2
